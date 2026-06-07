@@ -1,0 +1,14 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos de caché de Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Opcional: ignorar el dataset si fuera muy pesado (GitHub bloquea archivos > 100MB)
+# En tu caso, el dataset es ligero, así que podemos dejar que se suba, pero es buena práctica indicarlo.
+# data/raw/responses.csv
+
