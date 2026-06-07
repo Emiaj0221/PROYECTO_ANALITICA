@@ -24,5 +24,5 @@ Para replicar este entorno de trabajo y ejecutar el código de los notebooks en 
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/proyecto_analitica.git](https://github.com/TU_USUARIO/proyecto_analitica.git)
+   git clone [https://github.com/TU_USUARIO/proyecto_analitica.git](https://github.com/Emiaj0221/PROYECTO_ANALITICA)
    cd proyecto_analitica

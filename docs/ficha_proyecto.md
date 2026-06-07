@@ -45,4 +45,4 @@ Para resolverlo, utilizando el dataset *Young People Survey* (1.010 registros, 1
 - **Acción de mitigación:** Realizar auditorías de equidad (Fairness Audits) sobre los clústeres resultantes antes de lanzar campañas, verificando que la distribución demográfica dentro de los segmentos "premium" no excluya sistemáticamente a grupos minoritarios o rurales, y ajustar los pesos del algoritmo si se detecta un sesgo discriminatorio.
 
 ## 10. URL del repositorio GitHub
-[https://github.com/tu-usuario/proyecto_analitica]
+[https://github.com/Emiaj0221/PROYECTO_ANALITICA]
