@@ -1,9 +1,9 @@
 # Ficha de formulación del proyecto integrador
 
 ## 1. Datos del estudiante
-- **Nombre completo:** [Escribe tu nombre aquí]
+- **Nombre completo:** [Jaime Alberto Espinosa Jaramillo]
 - **Programa:** Diplomado — Desarrollo Web para Analítica de Datos
-- **Fecha:** [Escribe la fecha de entrega aquí]
+- **Fecha:** [07 de junio de 2026]
 
 ## 2. Nombre del proyecto
 Segmentación Multidimensional de Consumidores Jóvenes para Optimización de Campañas de Marketing Dirigido.
