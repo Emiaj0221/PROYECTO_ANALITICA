@@ -1,0 +1,16 @@
+{
+    "modelo": "KMeans",
+    "version": "1.0",
+    "fecha_entrenamiento": "2026-06-15",
+    "metrica_principal": "silhouette_score",
+    "valor_metrica": 0.2091,
+    "inercia": 2371.31,
+    "variables_entrada": [
+        "Music",
+        "Slow songs or fast songs",
+        "Dance",
+        "Folk",
+        "Country"
+    ],
+    "observaciones": "Entrenado con sklearn 1.3.2, semilla 42. Separaci\u00f3n train/test aplicada sin fugas."
+}
