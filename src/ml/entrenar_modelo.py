@@ -52,3 +52,16 @@ with open(MODEL_DIR / 'model_metadata.json', 'w') as f:
     json.dump(metadata, f, indent=4)
 
 print("¡Artefactos y JSON generados con éxito en la carpeta models/!")
+
+import joblib
+
+# Definimos las rutas de salida apuntando a la nueva carpeta
+ruta_modelo = '../models/modelo_kmeans.pkl'
+ruta_escalador = '../models/escalador.pkl'
+
+# Exportamos los objetos (Asegúrate de que 'kmeans_modelo' y 'escalador' 
+# sean los nombres reales de las variables en tu código anterior)
+joblib.dump(kmeans_modelo, ruta_modelo)
+joblib.dump(escalador, ruta_escalador)
+
+print("¡Archivos .pkl generados exitosamente en la carpeta models/!")
